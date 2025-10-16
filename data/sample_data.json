@@ -1,0 +1,27 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "name": "Sample Record 1",
+      "value": 100.50,
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "name": "Sample Record 2",
+      "value": 250.75,
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "name": "Sample Record 3",
+      "value": 75.25,
+      "status": "inactive"
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "created_at": "2025-10-16",
+    "description": "Sample data for testing validations"
+  }
+}
